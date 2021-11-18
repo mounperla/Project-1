@@ -1,6 +1,6 @@
 # Project-1
 Its my first project created in the github
 
-Its was to use git 
+It is easy to use git 
 
 Its very useful to use git 
