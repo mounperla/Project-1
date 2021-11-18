@@ -1,0 +1,8 @@
+Basic Commands in Git
+git init
+git log 
+git add
+git status 
+git commit
+git revert
+git reset
